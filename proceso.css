@@ -1,0 +1,24 @@
+body{
+    background-color: #29ebc1; 
+}
+.proceso{
+    background-color: #0d766f;
+    display: flex;
+    justify-content: center;
+}
+.imagen1{
+
+}
+.imagen2{
+
+}
+.imagen3{
+}
+.boton{
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    background-color:#0d766f;
+    border-radius: 20px 20px 20px 20px;
+}

@@ -1,0 +1,57 @@
+<html>
+<head>
+<title> trabajo clase </title>
+</head>
+<body>
+<p align="center">
+<font color="red" size="18" type="calibri"> trabajo clase </p>
+<table border="1" bordercolor="blue" align="center" width="500" bgcolor="pink">
+<thead>
+<tr>
+<th colspan="2"> OFERTELF </th>
+</tr>
+<tr>
+<th> Articulos </th>
+<th> Descripcion </th>
+</tr>
+<tr>
+</thead>
+<tbody>
+<th rowspan="3">
+<img src="" width="100" size="10"></th>
+<tr>
+<td> MARCA: </td>
+</tr>
+<tr>
+<td> MODELO: </td>
+</tr>
+<tr>
+<td> PRECIO: </td>
+</tr>
+<th rowspan="3">
+<img src="" width="100" size="10"></th>
+<tr>
+<td> MARCA: </td>
+</tr>
+<tr>
+<td> MODELO: </td>
+</tr>
+<tr>
+<td> PRECIO: </td>
+</tr>
+<th rowspan="3">
+<img src="" width="100" size="10"></th>
+<tr>
+<td> MARCA: </td>
+</tr>
+<tr>
+<td> MODELO: </td>
+</tr>
+<tr>
+<td> PRECIO: </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
